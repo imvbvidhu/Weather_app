@@ -1,3 +1,5 @@
 ### This Project is made using Vanilla Javascript and is a weather app project.
 
-### We are going to be using darksky api to pull all the necessary weather information you need. Darksky can be used free for up to 1000 api calls
+### This is going to be using darksky api to pull all the necessary weather information.
+ 
+### Uses navigator property of javascript and location property of browser inbuilt (again ,JS) to get longitude and latitude and then using API to display the weather in your area.
